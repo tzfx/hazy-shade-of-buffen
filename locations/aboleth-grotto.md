@@ -84,9 +84,14 @@ The door appears very old, but sturdy. It can be opened with a DC10 strength che
 
 ## The Vault
 
-This secret area under the grotto's main pool is surprisingly dry. It contains a rather sizable collection of scrolls and parchement. Potentially:
+This secret area under the grotto's main pool is surprisingly dry. It contains a rather sizable collection of scrolls and parchement. The entire area glows with the same arcane energy that lit the ceiling of the grotto. 
+
+Potentially:
 
 - The diary and construction notes for the tower at Lake Barotok.
+    > Requires 10hrs of study to read and understand, after which any character who studied it will know the physical layout of the tower. DC15 arcane check to be able to pinpoint the location of all rooms with magical traps/puzzles. DC25 arcane check to have complete understanding, including knowledge of how to disarm each trapped room, giving the character advantage to disarm any trap in the tower if the trap can be disarmed, and advantage on any puzzle-solving related skill checks. An action can be used to consult the book for guidance while exploring the tower.
 - Some amount of scrolls.
 - Other magic treasure.
 - Wisdom/arcane boosting potions.
+- A very rusty-looking steel key on a heavily tarnished silver chain.
+    > This key requires 1hr attunement. Once attuned, the key allows the holder to teleport itself and up to 10 other creatures within 15ft to the top of the tower from anywhere in Barovia.
