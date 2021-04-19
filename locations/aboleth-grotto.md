@@ -21,13 +21,13 @@ The grotto itself has a 20ft high ceiling at it's highest point at the center, w
 
 If the party is not in active combat with the aboleth, the ceiling glows with a dim blue light.
 
-If the party is in active combat with the abolethm the clieling glows with a bright light, brightly illuminating the entire grotto.
+If the party is in active combat with the aboleth, the ceiling glows with a bright light, brightly illuminating the entire grotto.
 
 The color of the ceiling changes on the aboleth's turn in accordance with the next lair action to be taken by the aboleth on intiative 20.
 
-blue - phatasmal force
-purple - tidal surge
-red - tidal rage
+- blue - phatasmal force
+- purple - tidal surge
+- red - tidal rage
 
 In addition to these, the ceiling with crackle with energy if the aboleth has a charmed target and is planning on using Psychic Drain during the current round.
 
@@ -38,19 +38,21 @@ There are three natural columns spanning the height of the grotto. At quick glan
 
 Outside of combat, these columns are dull. Once the aboleth has been engaged, they begin to glow with the same intensity as the ceiling.
 
-- DC20 (DC5 in combat) perception check of the column reveals tiny, inscribed runes adoring the base of each of the columns.
-- DC10 (DC5 in combat) history check reveals them to be the icons of the fanes of Barovia.
-- DC20 (DC15 in combat) arcane check reveals that a bonus action can be used to touch a column and choose one of the following buffs for 1h:
+- DC20 (DC1 in combat) perception check of the column reveals tiny, inscribed runes adoring the base of each of the columns.
+- DC10 (DC1 in combat) history check reveals them to be the icons of the fanes of Barovia.
+- DC17 arcane check (if the glyphs have been seen AND identified) reveals that a bonus action can be used to touch a column and choose one of the following buffs for 1h:
 
 1. Blessing of the Huntress.
 
     > The character is imbued with deadly focus, They gain advantage on any one attack or spell cast they make per round. They also gain advantage on any ability checks (not saving throws). They also gain advantage on wisdom saving throws.
+
 2. Blessing of the Weaver.
 
     > The character is imbued with the magicks of the weave. They gain immunity to the aboleth's enslave or probing telepathy. They gain advantage on wisdom saving throws. They gain 20 temporary hit points. Upon any member of the party receiving this blessing, the character may use a free action to cast 'Death Ward' on the entire party within the grotto, without regard to range or spell slot availability. Death ward can only be granted to the party once in this manner (so a second player receiving this blessing cannot cast it again).
+
 3. Blessing of the Seeker.
 
-    > The character is imbued with slight premonition. They gain advantage on any dex/str saving throws, and gain +5AC.
+    > The character is imbued with the gift of premonition. They gain advantage on any dex/str saving throws, and gain +5AC.
 
 These buffs cannot be stacked, and once granted cannot be replaced with a new one unless removed by dispel magic or a similar effect.
 
@@ -66,8 +68,8 @@ In addition to the Aboleth, the grotto can potentially be inhabited with:
 - 1 Giant Snapping Turtle (CR3)
 - 1 Cave Fisher (CR3)
 
-While the crocodiles or poisonous snakes will not actively engage the party, the giant snapping turtle/cave fisher will.
-Any creatures in combat with the party will attempt to disengage and flee the grotto if the Aboleth enters the entrance passage.
+While the crocodiles or poisonous snakes will not actively engage the party unless attacked, the giant snapping turtle/cave fisher will.
+Any creatures in (or out of) combat with the party will attempt to disengage and flee the grotto if the aboleth enters the entrance passage.
 
 ## Loot
 
